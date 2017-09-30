@@ -27,7 +27,7 @@ The goals / steps of this project are the following:
 [image6]: ./output_images/Sliding_Window_Image.png 
 [image7]: ./output_images/Detected_lines.png 
 [image8]: ./output_images/Processed_Image.png 
-[video1]: ./output_image/project_video_ouput.mp4
+[video1]: ./output_images/project_video_ouput.mp4
 
 ## [Rubric](https://review.udacity.com/#!/rubrics/571/view) Points
 
