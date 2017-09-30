@@ -27,7 +27,7 @@ The goals / steps of this project are the following:
 [image6]: ./output_images/Sliding_Window_Image.png 
 [image7]: ./output_images/Detected_lines.png 
 [image8]: ./output_images/Processed_Image.png 
-[video1]: ./output_images/project_video_ouput.mp4
+[video1]: ./project_video_ouput.mp4
 
 ## [Rubric](https://review.udacity.com/#!/rubrics/571/view) Points
 
@@ -106,7 +106,8 @@ The mean of the lane pixels closest to the car gives us the center of the lane. 
 
 #### 1. Provide a link to your final video output.  Your pipeline should perform reasonably well on the entire project video (wobbly lines are ok but no catastrophic failures that would cause the car to drive off the road!).
 
-Here's a link to my video [link to my video result][video1]
+Here's a link to my video 
+[link to my video result](./project_video_output.mp4)
 
 ---
 
